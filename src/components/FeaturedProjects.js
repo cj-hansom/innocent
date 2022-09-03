@@ -50,7 +50,7 @@ const FeaturedProjects = (props) => {
             >
                 {projects.map((project, index) => (
                     <div key={index} className="carousel-card">
-                        <img className="carousel-img clickable" src={`${project.photoUrl || boilerPlate}`} />
+                        <img className="carousel-img clickable" src={`${project.photoUrl || boilerPlate}`} alt='' />
                     </div>
                 ))}
             </ReactCardCarousel>
