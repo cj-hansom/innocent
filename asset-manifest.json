@@ -1,34 +1,34 @@
 {
   "files": {
-    "main.css": "/innocent/static/css/main.031736a1.css",
-    "main.js": "/innocent/static/js/main.01c87d27.js",
+    "main.css": "/innocent/static/css/main.bc0a9393.css",
+    "main.js": "/innocent/static/js/main.d04e05f2.js",
     "static/media/web.png": "/innocent/static/media/web.4c071efeb3e905522926.png",
     "static/media/dispatch_z.jpg": "/innocent/static/media/dispatch_z.8ac89d62c6ea1c6e3ffd.jpg",
     "static/media/myweb.png": "/innocent/static/media/myweb.a0796410c01058878ccb.png",
     "static/media/android.png": "/innocent/static/media/android.19dae4fe13c5f9dc1231.png",
     "static/media/google-materialdesign.png": "/innocent/static/media/google-materialdesign.6c55179f3a9cb7cd7744.png",
     "static/media/ios.png": "/innocent/static/media/ios.cc05dd251c3a3409dbf8.png",
+    "static/media/innocent5.png": "/innocent/static/media/innocent5.2493c9adb23d027050bc.png",
     "static/media/instagram.png": "/innocent/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/innocent3.jpg": "/innocent/static/media/innocent3.8bae344d19c7a260dd4d.jpg",
     "static/media/background.jpg": "/innocent/static/media/background.1b5eff928be470e29740.jpg",
+    "static/media/innocent1.jpg": "/innocent/static/media/innocent1.c7499665baeed3bb98b8.jpg",
     "static/media/react.png": "/innocent/static/media/react.809fed23bcdd686de66e.png",
-    "static/media/cj.png": "/innocent/static/media/cj.69f587465768c01a9be4.png",
     "static/media/html.png": "/innocent/static/media/html.419ed2b68ff3cd4f43cf.png",
-    "static/media/innocent1.jpg": "/innocent/static/media/innocent1.c58c4b4c5c71e21936ab.jpg",
     "static/media/git.png": "/innocent/static/media/git.0f7d186482de0276d601.png",
+    "static/media/cj.png": "/innocent/static/media/cj.de5d816585f7544b649f.png",
     "static/media/js.png": "/innocent/static/media/js.fbb6c18b8555d3e68608.png",
     "static/media/css.png": "/innocent/static/media/css.02d225c7df0b28341d8d.png",
     "static/media/angular.png": "/innocent/static/media/angular.c70a983f69c5369e9c20.png",
-    "static/media/innocent3.jpg": "/innocent/static/media/innocent3.0aef99296b21d738aebb.jpg",
     "static/media/facebook.png": "/innocent/static/media/facebook.177e21a8cf4743cba516.png",
-    "static/media/innocent5.png": "/innocent/static/media/innocent5.651325c66c7e73719a7f.png",
     "static/media/twitter.png": "/innocent/static/media/twitter.28b4dce41e4e33858919.png",
     "static/media/firebase.png": "/innocent/static/media/firebase.addf245d40de8364c2fd.png",
     "index.html": "/innocent/index.html",
-    "main.031736a1.css.map": "/innocent/static/css/main.031736a1.css.map",
-    "main.01c87d27.js.map": "/innocent/static/js/main.01c87d27.js.map"
+    "main.bc0a9393.css.map": "/innocent/static/css/main.bc0a9393.css.map",
+    "main.d04e05f2.js.map": "/innocent/static/js/main.d04e05f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.031736a1.css",
-    "static/js/main.01c87d27.js"
+    "static/css/main.bc0a9393.css",
+    "static/js/main.d04e05f2.js"
   ]
 }
